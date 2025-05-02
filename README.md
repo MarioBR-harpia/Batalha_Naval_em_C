@@ -1,4 +1,4 @@
-## Trabalho da Faculdade (UFAM) da Disciplina Algoritmos e Estruturas de Dados I ##
+# Trabalho da Faculdade (UFAM) da Disciplina Algoritmos e Estruturas de Dados I #
 #🛡️ Batalha Naval - Projeto em C#
 Este é um projeto de um jogo simples de Batalha Naval, desenvolvido em linguagem C para ser jogado via terminal.
 
