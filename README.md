@@ -5,12 +5,19 @@ Este é um projeto de um jogo simples de Batalha Naval, desenvolvido em linguage
 
 ## 🎯 Funcionalidades
 Escolha de dificuldade: fácil, médio ou difícil.
+
 Geração aleatória de minas, navios e submarinos.
+
 Jogabilidade com coordenadas no formato x,y.
+
 Visualização opcional do gabarito (tabuleiro completo).
+
 Tabuleiro visível ao jogador que é atualizado a cada jogada.
+
 Condição de vitória ao encontrar todos os elementos.
+
 Mensagens informativas sobre cada acerto (mina, navio, submarino ou água).
+
 
 ## ⚙️ Como o jogo funciona
 O jogador informa a dificuldade.
