@@ -21,13 +21,20 @@ Mensagens informativas sobre cada acerto (mina, navio, submarino ou água).
 
 ## ⚙️ Como o jogo funciona
 O jogador informa a dificuldade.
+
 Pode optar por ver o gabarito (útil para testes).
+
 Faz tentativas informando coordenadas (ex: 3,5).
+
 A cada acerto ou erro, o tabuleiro é atualizado.
+
 O jogo continua até o jogador desejar sair ou encontrar todos os elementos.
 
 ## 💬 Observações
 Projeto realizado com estruturas básicas (if/else, loops, arrays e defines).
+
 Utilizado rand() para posicionar os elementos aleatoriamente.
+
 Comentários extensivos explicando cada parte do código.
+
 Tempo de desenvolvimento: 5 horas.
